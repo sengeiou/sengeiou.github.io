@@ -1,11 +1,26 @@
 ---
 layout: page
-description: "我干了什么 究竟拿了时间换了什么"
+description: "Keep on going never give up"
 ---
+
+<div class="post-preview">
+    <a target="_blank" href="http://gityuan.com/android">
+        <h2>
+            <font color="#EE0000">[置顶]</font>Android系统开篇
+        </h2>
+        <div class="post-content-preview">
+            基于Android 6.0的源码，专注于分享Android系统原理、架构分析的原创文章，这是Android系列文章的开篇。
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by Gityuan on January 31, 2016
+    </p>
+</div>
+<hr>
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
+    <a target="_blank" href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
         </h2>
@@ -30,12 +45,12 @@ description: "我干了什么 究竟拿了时间换了什么"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Previous</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &rarr;</a>
     </li>
     {% endif %}
 </ul>
