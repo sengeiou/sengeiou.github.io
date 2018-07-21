@@ -79,27 +79,27 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # hotpages
-hotpages: [
-    {
-        title: "Android系统开篇    ",
-        href:  "http://sxtdtechs.com/android"
-    }, {
-        title: "彻底理解Android Binder通信架构",
-        href:  "http://sxtdtechs.com/2016/09/04/binder-start-service/"
-    },{
-        title: "Binder系列开篇",
-        href:  "http://sxtdtechs.com/2015/10/31/binder-prepare/"
-    },{
-        title: "理解Android进程创建流程",
-        href:  "http://sxtdtechs.com/2016/03/26/app-process-create/"
-    },{
-        title: "如何自学 Android   ",
-        href:  "http://sxtdtechs.com/2016/04/24/how-to-study-android/"
-    }
-]
+# hotpages: [
+#     {
+#         title: "Android系统开篇    ",
+#         href:  "http://sxtdtechs.com/android"
+#     }, {
+#         title: "彻底理解Android Binder通信架构",
+#         href:  "http://sxtdtechs.com/2016/09/04/binder-start-service/"
+#     },{
+#         title: "Binder系列开篇",
+#         href:  "http://sxtdtechs.com/2015/10/31/binder-prepare/"
+#     },{
+#         title: "理解Android进程创建流程",
+#         href:  "http://sxtdtechs.com/2016/03/26/app-process-create/"
+#     },{
+#         title: "如何自学 Android   ",
+#         href:  "http://sxtdtechs.com/2016/04/24/how-to-study-android/"
+#     }
+# ]
 
 #money settings
 
 money-alipay: /images/about-me/alipay.jpg
-money-weixin: /images/about-me/weixin.jpg
+money-weixin: /images/about-me/weixin.png
 money-description: 如果觉得我的文章对您所有帮助，请随意打赏，或者分享转发给更多朋友。您的支持与认可，将使我更加坚持不懈地创作，谢谢您！
