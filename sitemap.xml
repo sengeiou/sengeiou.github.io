@@ -3,7 +3,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for post in site.posts %}
     <url>
-        <loc>http://gityuan.com{{ post.url }}</loc>
+        <loc>http://sxtdtechs.com{{ post.url }}</loc>
         <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -11,49 +11,49 @@
     {% endfor %}
     
 		<url>
-		    <loc>http://gityuan.com/</loc>
+		    <loc>http://sxtdtechs.com/</loc>
 		    <lastmod>2016-05-12</lastmod>
 		    <changefreq>daily</changefreq>
 		    <priority>1.0</priority>
 		</url>
 		
 	  <url>
-		    <loc>http://gityuan.com/about/</loc>
+		    <loc>http://sxtdtechs.com/about/</loc>
 		    <lastmod>2016-05-26</lastmod>
 		    <changefreq>weekly</changefreq>
 		    <priority>0.6</priority>
 		</url>
 
 	  <url>
-		    <loc>http://gityuan.com/archive/</loc>
+		    <loc>http://sxtdtechs.com/archive/</loc>
 		    <lastmod>2016-05-26</lastmod>
 		    <changefreq>weekly</changefreq>
 		    <priority>0.6</priority>
 		</url>
 		
 		<url>
-		    <loc>http://gityuan.com/about</loc>
+		    <loc>http://sxtdtechs.com/about</loc>
 		    <lastmod>2016-05-26</lastmod>
 		    <changefreq>weekly</changefreq>
 		    <priority>0.6</priority>
 		</url>
 
 		<url>
-		    <loc>http://gityuan.com/resource</loc>
+		    <loc>http://sxtdtechs.com/resource</loc>
 		    <lastmod>2016-05-12</lastmod>
 		    <changefreq>weekly</changefreq>
 		    <priority>0.6</priority>
 		</url>
 		
 		<url>
-		    <loc>http://gityuan.com/talk</loc>
+		    <loc>http://sxtdtechs.com/talk</loc>
 		    <lastmod>2016-05-12</lastmod>
 		    <changefreq>weekly</changefreq>
 		    <priority>0.6</priority>
 		</url>
 
 		<url>
-		    <loc>http://gityuan.com/tags</loc>
+		    <loc>http://sxtdtechs.com/tags</loc>
 		    <lastmod>2016-05-12</lastmod>
 		    <changefreq>weekly</changefreq>
 		    <priority>0.6</priority>

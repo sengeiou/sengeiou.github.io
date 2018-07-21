@@ -20,7 +20,7 @@ header-img: "img/nav-resource.jpg"
 |![androiddevtools](/images/friends/androiddevtools.jpg) |[脉脉不嘚語](http://androiddevtools.cn/)|收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等|
 |![androidweekly](/images/friends/androidweekly.png)     |[androidweekly](http://androidweekly.cn/)|汇集互联网每周Android开发的技术文章、开源项目、开发工具、视频教程、Android设计教程、设计资源等|
 |![diycode](/images/friends/diycode.png)                 |[diycode](http://www.diycode.cc/)|面向开发者的技术社区|
-|![gityuan](/images/friends/gityuan.png)                 |[Gityuan](http://gityuan.com/) |基于Android 6.0的源码，专注于分享Android系统原理、架构分析的原创文章|
+|![gityuan](/images/friends/gityuan.png)                 |[Gityuan](http://sxtdtechs.com/) |基于Android 6.0的源码，专注于分享Android系统原理、架构分析的原创文章|
 |![liaohuqiu](/images/friends/liaohuqiu.png)   | [秋百万](http://www.liaohuqiu.net/)||
 |![gank](/images/friends/gank.jpg)             |[代码家](http://gank.io/)||
 
